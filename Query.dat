@@ -1,0 +1,5 @@
+evaluate {"Hello World"}
+evaluate generateseries(30,40)
+evaluate topn(100,'dim date')
+evaluate topn(100,sales)
+evaluate topn(30,'20 Time')
